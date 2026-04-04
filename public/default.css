@@ -186,5 +186,5 @@ BODY {
 }
 
 .equals {
-    grid-column: span 4; /* Make the equals button span all 4 columns */
+    grid-column: span 4; /* Make the equals button span all 4 columns*/
 }       
